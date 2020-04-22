@@ -16,3 +16,32 @@ background-image: url("7.jpg");
 background-repeat: no-repeat;
 background-size: cover;
 }
+
+.wlogo2{
+  max-width: 50px;
+  margin-top:15px;
+}
+
+.wa{
+  position: fixed;
+  z-index: 100;
+  bottom: 4rem;
+  left: 2rem;
+  border-radius: 50%;
+  background-color: #25d366;
+  width: 80px;
+  height: 80px;
+  text-align: center;
+  box-shadow:3px 3px 3px grey;
+}
+
+.linkylogo{
+
+
+  box-shadow:10px 10px grey;
+}
+
+
+.wa:hover {
+  background-color: #ADFF2F	;
+}
